@@ -14,18 +14,6 @@ e soluções que transformam problemas reais em software.
 
 ---
 
-### Sobre mim
-
-```javascript
-const leonardo = {
-  formação: "Engenharia de Software",
-  interesses: ["Desenvolvimento Web", "Automação", "Sistemas de Gestão"],
-  tecnologias: ["Python", "JavaScript", "React", "Node.js", "C#", "SQL"],
-  objetivo: "Construir soluções simples para problemas complexos",
-  aprendendoSempre: true
-};
-```
-
 ### Tecnologias
 
 <div align="center">
@@ -50,19 +38,6 @@ const leonardo = {
 | **[🛡️ BlockIA](https://github.com/Ieoa/blockIA)** | Extensão que bloqueia o uso de IA e abordagens evasivas no navegador. | `JavaScript` `Python` |
 | **[💬 CloneTwitter](https://github.com/Ieoa/clonetwitter)** | Recriação responsiva da experiência do Twitter/X. | `JavaScript` `HTML` `CSS` |
 | **[🖥️ Portfólio](https://github.com/Ieoa/portifolio)** | Meu portfólio pessoal, com projetos e experiências interativas. | `JavaScript` `CSS` |
-
-### Atividade no GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ieoa&theme=github_dark" alt="Estatísticas do GitHub">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieoa&theme=github_dark" alt="Linguagens mais usadas">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ieoa&bg_color=07182F&color=9EACCA&line=59F2CA&point=EAF2FF&area=true&hide_border=false&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Gráfico de contribuições">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Ieoa&theme=transparent&hide_border=true&ring=59F2CA&fire=59F2CA&currStreakLabel=59F2CA&sideLabels=9EACCA&dates=9EACCA&currStreakNum=D7E0F3&sideNums=D7E0F3&locale=pt_BR" alt="Sequência de contribuições">
-
-</div>
 
 ---
 

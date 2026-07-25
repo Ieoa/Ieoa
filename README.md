@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=59F2CA&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Python+%26+JavaScript;Transformando+problemas+em+c%C3%B3digo;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
-Desenvolvedor focado em criar aplicações úteis, interfaces intuitivas  
+Desenvolvedor focado em criar aplicações úteis, interfaces intuitivas<br>
 e soluções que transformam problemas reais em software.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-07182F?style=for-the-badge&logo=githubpages&logoColor=59F2CA)](https://ieoa.github.io/portifolio/)

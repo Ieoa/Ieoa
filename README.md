@@ -2,13 +2,13 @@
 
 # Olá, eu sou o Leonardo 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=59F2CA&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Python+%26+JavaScript;Transformando+problemas+em+c%C3%B3digo;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF2DAA&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Python+%26+JavaScript;Transformando+problemas+em+c%C3%B3digo;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 Desenvolvedor focado em criar aplicações úteis, interfaces intuitivas<br>
 e soluções que transformam problemas reais em software.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-07182F?style=for-the-badge&logo=githubpages&logoColor=59F2CA)](https://ieoa.github.io/portifolio/)
-[![E-mail](https://img.shields.io/badge/E--mail-07182F?style=for-the-badge&logo=gmail&logoColor=59F2CA)](mailto:contactforjobleo@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-07182F?style=for-the-badge&logo=githubpages&logoColor=FF2DAA)](https://ieoa.github.io/portifolio/)
+[![E-mail](https://img.shields.io/badge/E--mail-07182F?style=for-the-badge&logo=gmail&logoColor=FF2DAA)](mailto:contactforjobleo@gmail.com)
 
 </div>
 
@@ -18,15 +18,15 @@ e soluções que transformam problemas reais em software.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-07182F?style=for-the-badge&logo=python&logoColor=59F2CA)
-![JavaScript](https://img.shields.io/badge/JavaScript-07182F?style=for-the-badge&logo=javascript&logoColor=59F2CA)
-![TypeScript](https://img.shields.io/badge/TypeScript-07182F?style=for-the-badge&logo=typescript&logoColor=59F2CA)
-![React](https://img.shields.io/badge/React-07182F?style=for-the-badge&logo=react&logoColor=59F2CA)
-![Node.js](https://img.shields.io/badge/Node.js-07182F?style=for-the-badge&logo=nodedotjs&logoColor=59F2CA)
-![Django](https://img.shields.io/badge/Django-07182F?style=for-the-badge&logo=django&logoColor=59F2CA)
-![C%23](https://img.shields.io/badge/C%23-07182F?style=for-the-badge&logo=sharp&logoColor=59F2CA)
-![SQL](https://img.shields.io/badge/SQL-07182F?style=for-the-badge&logo=postgresql&logoColor=59F2CA)
-![Git](https://img.shields.io/badge/Git-07182F?style=for-the-badge&logo=git&logoColor=59F2CA)
+![Python](https://img.shields.io/badge/Python-07182F?style=for-the-badge&logo=python&logoColor=FF2DAA)
+![JavaScript](https://img.shields.io/badge/JavaScript-07182F?style=for-the-badge&logo=javascript&logoColor=FF2DAA)
+![TypeScript](https://img.shields.io/badge/TypeScript-07182F?style=for-the-badge&logo=typescript&logoColor=FF2DAA)
+![React](https://img.shields.io/badge/React-07182F?style=for-the-badge&logo=react&logoColor=FF2DAA)
+![Node.js](https://img.shields.io/badge/Node.js-07182F?style=for-the-badge&logo=nodedotjs&logoColor=FF2DAA)
+![Django](https://img.shields.io/badge/Django-07182F?style=for-the-badge&logo=django&logoColor=FF2DAA)
+![C%23](https://img.shields.io/badge/C%23-07182F?style=for-the-badge&logo=sharp&logoColor=FF2DAA)
+![SQL](https://img.shields.io/badge/SQL-07182F?style=for-the-badge&logo=postgresql&logoColor=FF2DAA)
+![Git](https://img.shields.io/badge/Git-07182F?style=for-the-badge&logo=git&logoColor=FF2DAA)
 
 </div>
 

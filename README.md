@@ -30,6 +30,15 @@ e soluções que transformam problemas reais em software.
 
 </div>
 
+### Linguagens mais usadas
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieoa&theme=github_dark" alt="Linguagens por repositório">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ieoa&theme=github_dark" alt="Linguagens por commits">
+
+</div>
+
 ### Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |

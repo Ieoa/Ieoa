@@ -34,10 +34,10 @@ e soluções que transformam problemas reais em software.
 
 | Projeto | Descrição | Tecnologias |
 |:---|:---|:---|
-| **[⚓ Loggeral](https://github.com/Ieoa/LOGGERAL)** | Sistema de histórico de navios, estoque e certificados. | `Python` `Django` |
-| **[🛡️ BlockIA](https://github.com/Ieoa/blockIA)** | Extensão que bloqueia o uso de IA e abordagens evasivas no navegador. | `JavaScript` `Python` |
-| **[💬 CloneTwitter](https://github.com/Ieoa/clonetwitter)** | Recriação responsiva da experiência do Twitter/X. | `JavaScript` `HTML` `CSS` |
-| **[🖥️ Portfólio](https://github.com/Ieoa/portifolio)** | Meu portfólio pessoal, com projetos e experiências interativas. | `JavaScript` `CSS` |
+| **[Loggeral](https://github.com/Ieoa/LOGGERAL)** | Sistema de histórico de navios, estoque e certificados. | `Python` `Django` |
+| **[BlockIA](https://github.com/Ieoa/blockIA)** | Extensão que bloqueia o uso de IA e abordagens evasivas no navegador. | `JavaScript` `Python` |
+| **[CloneTwitter](https://github.com/Ieoa/clonetwitter)** | Recriação responsiva da experiência do Twitter/X. | `JavaScript` `HTML` `CSS` |
+| **[Portfólio](https://github.com/Ieoa/portifolio)** | Meu portfólio pessoal, com projetos e experiências interativas. | `JavaScript` `CSS` |
 
 ---
 

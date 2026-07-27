@@ -28,16 +28,7 @@ e soluções que transformam problemas reais em software.
 ![SQL](https://img.shields.io/badge/SQL-07182F?style=for-the-badge&logo=postgresql&logoColor=FF2DAA)
 ![Git](https://img.shields.io/badge/Git-07182F?style=for-the-badge&logo=git&logoColor=FF2DAA)
 
-</div>
 
-### Linguagens mais usadas
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieoa&theme=github_dark" alt="Linguagens por repositório">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ieoa&theme=github_dark" alt="Linguagens por commits">
-
-</div>
 
 ### Projetos em destaque
 
@@ -50,6 +41,13 @@ e soluções que transformam problemas reais em software.
 
 ---
 
+
+<div align="center">
+
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieoa&theme=github_dark" alt="Linguagens por repositório">
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ieoa&theme=github_dark" alt="Linguagens por commits">
+
+</div>
 <div align="center">
 
 ### Vamos construir algo juntos?
@@ -58,6 +56,6 @@ Estou aberto a oportunidades, colaborações e boas conversas sobre tecnologia.
 
 **[Acesse meu portfólio](https://ieoa.github.io/portifolio/) · [Entre em contato](mailto:contactforjobleo@gmail.com)**
 
-<sub>Feito com código, curiosidade e café ☕</sub>
+<sub>leo oel ole eol loe elo </sub>
 
 </div>

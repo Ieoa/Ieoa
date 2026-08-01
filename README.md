@@ -1,20 +1,20 @@
 <div align="center">
 
-# Olá, eu sou o Leonardo 👋
+# Hi, I'm Leonardo 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF2DAA&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Python+%26+JavaScript;Transformando+problemas+em+c%C3%B3digo;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF2DAA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Python+%26+JavaScript+Developer;Turning+problems+into+code;Always+learning+something+new)](https://git.io/typing-svg)
 
-Desenvolvedor focado em criar aplicações úteis, interfaces intuitivas<br>
-e soluções que transformam problemas reais em software.
+Developer focused on building useful applications, intuitive interfaces,<br>
+and solutions that turn real-world problems into software.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-07182F?style=for-the-badge&logo=githubpages&logoColor=FF2DAA)](https://ieoa.github.io/portifolio/)
-[![E-mail](https://img.shields.io/badge/E--mail-07182F?style=for-the-badge&logo=gmail&logoColor=FF2DAA)](mailto:contactforjobleo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-07182F?style=for-the-badge&logo=githubpages&logoColor=FF2DAA)](https://ieoa.github.io/portifolio/)
+[![Email](https://img.shields.io/badge/Email-07182F?style=for-the-badge&logo=gmail&logoColor=FF2DAA)](mailto:contactforjobleo@gmail.com)
 
 </div>
 
 ---
 
-### Tecnologias
+### Technologies
 
 <div align="center">
 
@@ -30,14 +30,14 @@ e soluções que transformam problemas reais em software.
 
 
 
-### Projetos em destaque
+### Featured Projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 |:---|:---|:---|
-| **[Loggeral](https://github.com/Ieoa/LOGGERAL)** | Sistema de histórico de navios, estoque e certificados. | `Python` `Django` |
-| **[BlockIA](https://github.com/Ieoa/blockIA)** | Extensão que bloqueia o uso de IA e abordagens evasivas no navegador. | `JavaScript` `Python` |
-| **[CloneTwitter](https://github.com/Ieoa/clonetwitter)** | Recriação responsiva da experiência do Twitter/X. | `JavaScript` `HTML` `CSS` |
-| **[Portfólio](https://github.com/Ieoa/portifolio)** | Meu portfólio pessoal, com projetos e experiências interativas. | `JavaScript` `CSS` |
+| **[Loggeral](https://github.com/Ieoa/LOGGERAL)** | A system for managing vessel records, inventory, and certificates. | `Python` `Django` |
+| **[BlockIA](https://github.com/Ieoa/blockIA)** | A browser extension that blocks AI tools and evasive approaches. | `JavaScript` `Python` |
+| **[CloneTwitter](https://github.com/Ieoa/clonetwitter)** | A responsive recreation of the Twitter/X experience. | `JavaScript` `HTML` `CSS` |
+| **[Portfolio](https://github.com/Ieoa/portifolio)** | My personal portfolio featuring projects and interactive experiences. | `JavaScript` `CSS` |
 
 ---
 
@@ -50,11 +50,11 @@ e soluções que transformam problemas reais em software.
 </div>
 <div align="center">
 
-### Vamos construir algo juntos?
+### Let's build something together
 
-Estou aberto a oportunidades, colaborações e boas conversas sobre tecnologia.
+I'm open to opportunities, collaborations, and great conversations about technology.
 
-**[Acesse meu portfólio](https://ieoa.github.io/portifolio/) · [Entre em contato](mailto:contactforjobleo@gmail.com)**
+**[View my portfolio](https://ieoa.github.io/portifolio/) · [Get in touch](mailto:contactforjobleo@gmail.com)**
 
 <sub>leo oel ole eol loe elo </sub>
 

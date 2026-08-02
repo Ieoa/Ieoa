@@ -44,9 +44,6 @@ and solutions that turn real-world problems into software.
 
 <div align="center">
 
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ieoa&theme=github_dark" alt="Linguagens por repositório">
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ieoa&theme=github_dark" alt="Linguagens por commits">
-
 </div>
 <div align="center">
 
